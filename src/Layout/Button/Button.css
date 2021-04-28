@@ -1,0 +1,9 @@
+.button_style {
+  background-color: lightblue;
+  font-weight: bold;
+  font-size: 1em;
+  margin-left: 1em;
+  margin-top: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+}
